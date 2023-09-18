@@ -1,0 +1,1 @@
+This is the place to find other people near you who are longboarding! Riding around for transportation is all good and fun, but there is so much more potential in your board just waiting to be unlocked. Social 
