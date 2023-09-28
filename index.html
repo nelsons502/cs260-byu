@@ -8,6 +8,7 @@
         <link rel="icon" href="LetterL.svg.ico" />
     </head>
     <body>
+        <link rel="stylesheet" href="styles.css"/>
         <header>
             <h1>Welcome to LongboardLinks!</h1>
 
@@ -18,16 +19,18 @@
             <nav>
                 <menu>
                     <li><a href="events.html">Events</a></li>
+                    <li><a href="create.html">Create</a></li>
                 </menu>
             </nav>
         </header>
         <main>
-            <p>Login to see/create events</p>
+            <p id="para1">Login to see/create events</p>
             <form method="get" action="events.html">
                 <lable for="name">Name</lable>
                 <input type="text" id="name" placeholder="Your name"/>
                 <button type="submit">Login</button>
             </form>
+            <p class="class1">You can also see recent posts from users on the "Posts" page</p>
         </main>
     </body>
     
