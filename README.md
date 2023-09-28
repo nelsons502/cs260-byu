@@ -37,11 +37,11 @@ I will use the required technologies in these ways.
 * __CSS__ - Application styling so that it looks good on different screen sizes, uses whitespace and color well, and has consistency of format between pages.
 * __JavaScript__ - Provides login, choice display, liking posts, creating events, RSVPing to events, and more.
 * __Service__ - Backend service with endpoints for:
-* * login
-* * retrieving events
-* * submitting events
-* * retriving posts
-* * submitting posts
+  * login
+  * retrieving events
+  * submitting events
+  * retriving posts
+  * submitting posts
 * __DB__ - Store user profiles, events, and posts in database.
 * __Login__ - Register and login users. Credentials securely stored in database. Can't vote unless authenticated.
 * __WebSocket__ - A "featured" longboard-related thing will be hooked up to the login page. 
