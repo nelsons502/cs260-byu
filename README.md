@@ -10,10 +10,14 @@ This is the place to find other people near you who are longboarding! Riding aro
 
 ### Design
 The "Login", "Create" and "Events" screens
+![Picture of the page that shows my design for the login, create and events screens of my application](assets/design1.jpeg)
 
 The "Feed" screen that shows posts from users
+![Picture of the page that shows my design for the feed screen of my application](assets/design2.jpeg)
 
-A design for a "Chat" feauture that I might add to the app
+A design for a "Chat" feauture that I might add to the app, 
+plus the websocket I will employ
+![Picture of the page that shows my design for the potential chat feature of my application](assets/design3.jpeg)
 
 ## Technologies
 ...
